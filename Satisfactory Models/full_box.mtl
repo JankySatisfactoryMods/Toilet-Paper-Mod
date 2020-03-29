@@ -1,7 +1,7 @@
 # Blender MTL File: 'full_box.blend'
 # Material Count: 2
 
-newmtl Material.001
+newmtl Material
 Ns 323.999994
 Ka 0.350000 0.350000 0.350000
 Kd 0.351533 0.084376 0.000607
